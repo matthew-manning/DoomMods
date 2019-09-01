@@ -1,0 +1,14 @@
+
+
+            #1
+            
+Do as sprite sheet with all rotatations in one docoment. Cut in seperate sprites after exporting to png.
+
+Have all sprites share the same linework, colour, etc layers.
+
+
+
+            #2
+            
+have firing states be base rotations with layer(s) for toggling flashes.            
+
